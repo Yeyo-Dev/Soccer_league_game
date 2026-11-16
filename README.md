@@ -1,6 +1,11 @@
 # Champions League: Dreams
-
 A small 2D arcade football game prototype built with **HTML, CSS, JavaScript, and HTML5 Canvas**.
+
+![Gameplay Screenshot](./gameplay.jpg)
+
+A 2D arcade football game prototype featuring team selection,
+tactical formations, player attributes, AI opponents,
+and keyboard and touch controls.
 
 Choose your team, build a lineup, adjust player roles, and take on an AI-controlled opponent in a fast-paced match. The project started as a personal experiment and is shared as a playable prototype.
 
